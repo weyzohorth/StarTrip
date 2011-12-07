@@ -1,0 +1,10 @@
+name: StarTrip
+main: me.weyzohorth.StarTrip.StarTrip
+version: 0.1
+author: weyzohorth
+load: startup
+commands:
+    createGate:
+        description: create a gate to travel between worlds
+        usage: /createGate
+        aliases: ['createPortal', 'cGate', 'cPortal', 'cg', 'cp']
